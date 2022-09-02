@@ -21,7 +21,7 @@ body{
 
 /**** HEADER SECTION*****/
 header{
-    background-image:url(img/coding-img3.jpg);
+    background-image: linear-gradient(rgba(0,0,0,.8),rgb(0,0,0,.7)), url(img/coding-img3.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -106,7 +106,7 @@ h2{
 /**** ABOUT SECTION*****/
 
 .about-us-section{
-    background-color: orange;
+    background-color: rgb(241, 240, 240);
     padding: 25px;
 }
 .about-us-heading{
@@ -442,7 +442,7 @@ footer p{
     color: rgb(158, 156, 156);
 }.foot{
     margin-right: 15px;
-} 
+}
 .social-links li{
 	list-style: none;
 	display: inline-block;
